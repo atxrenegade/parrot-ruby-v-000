@@ -1,3 +1,3 @@
 def parrot(say="Squawk!")
   "#{say}"
-end  
+end
